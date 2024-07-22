@@ -1,0 +1,9 @@
+Pydriller para pegar mais informacoes do repositorio local, foi usado para construir a metrica de truck factor, code changes..
+
+Lucas:
+paga lista de projetos
+gera um banco com dados basicos
+enriquecimento de dados 
+salvava em um elasticsearch 
+buscava informacoes relevantes para cada  metrica um script para cada metrica
+
